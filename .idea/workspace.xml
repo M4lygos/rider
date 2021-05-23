@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f73d8ef-60ca-4ce1-ad7b-7fdd396f947b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../componet/src/cow_slice/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../componet/src/cow_slice/test_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ksH5KHpwKzV1o0AdCnAmIzeCJu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hash_table" />
+      <recent name="$PROJECT_DIR$/util/core" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/protocol" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build client_main.go">
+    <configuration name="go build client_main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Rider" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client/client_main.go" />
+      <package value="Rider" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Rider" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/main.go" />
+      <package value="Rider" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build rider.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Rider" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/server/core/rider.go" />
+      <package value="Rider" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHashObject in Rider/data_struct" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Rider" />
+      <working_directory value="$PROJECT_DIR$/data_struct" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Rider/data_struct" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHashObject\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Rider" />
+      <working_directory value="$PROJECT_DIR$/data_struct" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="Rider" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/data_struct/object_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build client_main.go" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestHashObject in Rider/data_struct" />
+        <item itemvalue="Go Test.object_test.go" />
+        <item itemvalue="Go Build.go build rider.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617695055218">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="578" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.949@0.25.1680.949" timestamp="1617695055217" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom" timestamp="1621340708776">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1617698536032" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1617696220601" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1619235441192" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1621340708776" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1620885935235" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center" timestamp="1621340708775">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1617698536031" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1617696220600" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1619235441191" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1621340708775" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1620885935234" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left" timestamp="1621340708775">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1617698536031" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1617696220600" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1619235441191" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1621340708775" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1620885935233" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right" timestamp="1621340708775">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1617698536031" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1617696220601" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1619235441192" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1621340708775" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1620885935234" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom" timestamp="1620901824534">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.25.1680.954@0.25.1680.954" timestamp="1620901824534" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.25.1680.956@0.25.1680.956" timestamp="1620885887388" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center" timestamp="1620901824533">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.25.1680.954@0.25.1680.954" timestamp="1620901824533" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.25.1680.956@0.25.1680.956" timestamp="1620885887388" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left" timestamp="1620901824533">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.25.1680.954@0.25.1680.954" timestamp="1620901824533" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.25.1680.956@0.25.1680.956" timestamp="1620885887388" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right" timestamp="1620901824533">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" timestamp="1620901824533" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.25.1680.956@0.25.1680.956" timestamp="1620885887388" />
+    <state x="698" y="139" key="SettingsEditor" timestamp="1620751258439">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state x="698" y="139" key="SettingsEditor/0.25.1680.954@0.25.1680.954" timestamp="1620751258439" />
+    <state x="641" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620892196796">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="641" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.956@0.25.1680.956" timestamp="1620892196796" />
+    <state x="505" y="234" width="670" height="679" key="search.everywhere.popup" timestamp="1620898605427">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.25.1680.951@0.25.1680.951" timestamp="1617679674204" />
+    <state x="505" y="234" width="670" height="679" key="search.everywhere.popup/0.25.1680.954@0.25.1680.954" timestamp="1620898605427" />
+    <state x="505" y="234" width="670" height="680" key="search.everywhere.popup/0.25.1680.956@0.25.1680.956" timestamp="1620892634303" />
+  </component>
+</project>
